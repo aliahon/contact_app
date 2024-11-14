@@ -10,26 +10,35 @@ function App() {
           email="atsushi@ada.org"
           phone="+81 123 4567"
           adresse="Yokohama, Japan"
-          status="acive"
+          status="active"
           img_url="https://i.pinimg.com/236x/e7/aa/7c/e7aa7ce7e6837dd37cf0afd16814300b.jpg"
         />
         <ProfilCard
-          name="Atsushi Nakajima"
+          name="Osamu Dazai"
           title="Detective"
-          email="atsushi@ada.org"
-          phone="+81 123 4567"
+          email="dazai@ada.org"
+          phone="+81 234 5678"
           adresse="Yokohama, Japan"
-          status="acive"
-          img_url="https://i.pinimg.com/236x/e7/aa/7c/e7aa7ce7e6837dd37cf0afd16814300b.jpg"
+          status="non active"
+          img_url="https://i.pinimg.com/236x/d0/03/2d/d0032dc7f0d79b6d7956f90a53cec8e4.jpg"
         />
         <ProfilCard
-          name="Atsushi Nakajima"
+          name="Doppo Kunikida"
           title="Detective"
-          email="atsushi@ada.org"
-          phone="+81 123 4567"
+          email="kunikida@ada.org"
+          phone="+81 345 6789"
           adresse="Yokohama, Japan"
-          status="acive"
-          img_url="https://i.pinimg.com/236x/e7/aa/7c/e7aa7ce7e6837dd37cf0afd16814300b.jpg"
+          status="active"
+          img_url="https://i.pinimg.com/236x/f7/71/3f/f7713f116f979a6170d98ebe6cd03aad.jpg"
+        />
+        <ProfilCard
+          name="Ryunosuke Akutagawa"
+          title="Mafia Member"
+          email="akutagawa@pm.jp"
+          phone="+81 456 7890"
+          adresse="Yokohama, Japan"
+          status="non active"
+          img_url="https://i.pinimg.com/236x/91/4c/97/914c9770afddc12180d69d4b0ed1922c.jpg"
         />
       </div>
     </div>
