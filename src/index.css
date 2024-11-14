@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.preserve-whitespace {
+  white-space: pre;
+}
