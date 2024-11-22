@@ -2,7 +2,7 @@ import AddressIcon from "./icons/AddressIcon";
 import EmailIcon from "./icons/EmailIcon";
 import PhoneIcon from "./icons/PhoneIcon";
 
-const ProfilCard = ({
+const ContactCard = ({
   name,
   title,
   email,
@@ -53,4 +53,4 @@ const ProfilCard = ({
   </div>
 );
 
-export default ProfilCard;
+export default ContactCard;
